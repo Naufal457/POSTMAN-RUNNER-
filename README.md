@@ -1,10 +1,3 @@
-# POSTMAN-RUNNER-
-Create Automation Script For Postman Runner
-
-Here is a sample README file for your GitHub repository containing the three JavaScript files you uploaded:
-
----
-
 # Fraud & Risk Profile Automation Scripts
 
 This repository contains scripts designed to automate the process of screening, claim checking, and risk profile assessments. The scripts are intended for use in the context of fraud detection, claim validation, and risk profiling within a financial or insurance-related API workflow.
